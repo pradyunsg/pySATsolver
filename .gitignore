@@ -21,3 +21,4 @@ dist/
 docs/build/
 
 *.ignore
+*.ignore.*
