@@ -12,7 +12,7 @@ dist/
 *.egg-info/
 
 # Unit test / coverage reports
-.tox/
+.nox/
 .cache/
 .mypy_cache/
 .hypothesis/
@@ -21,3 +21,4 @@ dist/
 docs/build/
 
 *.ignore
+*.ignore.*
